@@ -1,24 +1,111 @@
-# 💫 About Me:
-😎 I am Full-Stack Developer with a passion for Science and Human Behavior.<br>🫠 A punctual, goal-oriented, creative mind and graduate possessing excellent communication skills, problem-solving, and leadership skills while developing group projects. <br>👾 Highly focused, efficient, adaptable in any kind of situation, and capable of making the right decisions.<br>🔫 Shoot me an Email or add me on Linkedin :)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005571&height=280&section=header&text=Mehul%20Bartwal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Computer%20Vision%20%26%20Machine%20Learning%20Engineer&descAlignY=55" width="100%"/>
+</div>
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mehul_rk_7432) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mehulrk7432/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@EmTpro) 
+### 🔬 Research @ CSIR–CSIO | 🧠 Vision Transformers | 🤖 Large Language Models
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mehulrk7432&theme=omni&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mehulrk7432&theme=omni&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehulrk7432&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehulrk7432)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mehulbartwal7432@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mehulrk7432&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mehulrk7432&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I am a **Computer Vision & ML Engineer** and **Project Associate at CSIR–CSIO**, currently collaborating with **DRDO** on defense-focused AI systems. My work lies at the intersection of **hyperspectral imaging, vision transformers, and large-scale deep learning**, with an emphasis on **real-world deployment and robustness**.
+
+- 🔭 **Current Work:** Physics-aware spectral unmixing & ViT-based models for **hyperspectral landmine detection**
+- 🔬 **Research:** Hybrid deep learning architectures (CNN + BiLSTM + Attention) for agricultural quality assessment
+- 🏗️ **Systems:** Trained a **124M-parameter GPT-2 model from scratch** using PyTorch, CUDA, and DDP
+- ⚡ **Focus Areas:** Vision Transformers (ViT), Spectral Analysis, Model Optimization, GPU-accelerated training
+
+---
+
+## 🏢 Professional Experience
+
+### 🔭 **Project Associate – I (AI/ML)**
+**CSIR – Central Scientific Instruments Organisation (CSIO), Chandigarh**  
+*Aug 2024 – Present*
+
+**Hyperspectral Landmine Detection (Defense | DRDO Collaboration)**
+- Designed a custom hyperspectral acquisition pipeline (900–1700 nm) using Pika IR sensors
+- Independently collected 1000+ real-world samples across sand and clay terrains
+- Developed physics-aware spectral unmixing algorithms to isolate mine signatures from clutter
+- Implemented Vision Transformer-based detection models robust to occlusion and moisture variation
+
+**Millet Quality Assessment (Agriculture | CSIR-CFTRI)**
+- Architected a hybrid CNN + BiLSTM + Multi-Head Attention model
+- Achieved **97.47% classification accuracy** and **R² = 0.9947** for protein prediction
+- Reduced inference latency by **57%** using targeted spectral band pruning
+
+---
+
+## 🚀 Featured Projects
+
+### **GPT-2 (124M Parameters) — Trained From Scratch**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+- Implemented a decoder-only Transformer (12 layers, 12 heads, 768 hidden size)
+- Trained from scratch on WikiText-103 using NVIDIA DGX (4× V100 GPUs)
+- Used Distributed Data Parallel (DDP) and Automatic Mixed Precision (AMP)
+- Achieved **19.66 validation perplexity**, matching GPT-2 Small benchmarks
+
+### **SecureVision** — Research Collaboration Platform
+![MERN](https://img.shields.io/badge/MERN-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+
+- Secure research platform with JWT/2FA authentication
+- Real-time data analysis with WebSockets
+- Built using MongoDB, Express.js, React, and Node.js
+
+---
+
+## 🛠️ Technical Stack
+
+### 🧠 AI / ML / Computer Vision
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### ⚙️ Systems & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![CUDA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science & Engineering** — Lovely Professional University  
+CGPA: **7.98 / 10**
+
+---
+
+## 📄 Publications & Research
+
+- **Manuscript**: *Simultaneous Variety Classification and Protein Prediction in Millets using Hybrid Deep Learning Architectures*
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehulrk7432&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehulrk7432&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehulrk7432&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+  <i>"Good models fit data. Great models survive the real world."</i><br><br>
+  <img src="https://visitcount.itsvg.in/api?id=Mehulrk7432&icon=9&color=0"/>
+</div>
