@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Vision & ML Engineer** and **Project Associate at CSIR–CSIO**, currently collaborating with **DRDO** on defense-focused AI systems. My work lies at the intersection of **hyperspectral imaging, vision transformers, and large-scale deep learning**, with an emphasis on **real-world deployment and robustness**.
+I am a **Computer Vision & Machine Learning Engineer** and **Project Associate at CSIR–CSIO**, currently collaborating with **DRDO** on defense-focused AI systems. My work lies at the intersection of **hyperspectral imaging, vision transformers, and large-scale deep learning systems**, with an emphasis on **real-world deployment and robustness**.
 
 - 🔭 **Current Work:** Physics-aware spectral unmixing & ViT-based models for **hyperspectral landmine detection**
 - 🔬 **Research:** Hybrid deep learning architectures (CNN + BiLSTM + Attention) for agricultural quality assessment
@@ -46,19 +46,21 @@ I am a **Computer Vision & ML Engineer** and **Project Associate at CSIR–CSIO*
 ## 🚀 Featured Projects
 
 ### **GPT-2 (124M Parameters) — Trained From Scratch**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 - Implemented a decoder-only Transformer (12 layers, 12 heads, 768 hidden size)
 - Trained from scratch on WikiText-103 using NVIDIA DGX (4× V100 GPUs)
 - Used Distributed Data Parallel (DDP) and Automatic Mixed Precision (AMP)
 - Achieved **19.66 validation perplexity**, matching GPT-2 Small benchmarks
+- Implemented attention, layer normalization, and optimization logic without relying on high-level abstractions
 
-### **SecureVision** — Research Collaboration Platform
+### **SecureVision — Research Collaboration Platform**
 ![MERN](https://img.shields.io/badge/MERN-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 
 - Secure research platform with JWT/2FA authentication
-- Real-time data analysis with WebSockets
-- Built using MongoDB, Express.js, React, and Node.js
+- Real-time data analysis using WebSockets
+- Built with MongoDB, Express.js, React, and Node.js
 
 ---
 
