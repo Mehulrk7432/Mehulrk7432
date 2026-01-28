@@ -92,19 +92,6 @@ CGPA: **7.98 / 10**
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehulrk7432&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehulrk7432&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehulrk7432&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 <p align="center">
   <i>"Good models fit data. Great models survive the real world."</i>
 </p>
