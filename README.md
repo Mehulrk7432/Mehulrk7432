@@ -1,21 +1,21 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=005571&height=280&section=header&text=Mehul%20Bartwal&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Computer%20Vision%20%26%20Machine%20Learning%20Engineer&descAlignY=55" width="100%"/>
-</div>
+<h1 align="center">Hi 👋, I'm Mehul Bartwal</h1>
+<h3 align="center">Computer Vision & Machine Learning Engineer</h3>
+<h4 align="center">🔬 Research @ CSIR–CSIO | 🧠 Vision Transformers | 🤖 Large Language Models</h4>
 
-<div align="center">
-
-### 🔬 Research @ CSIR–CSIO | 🧠 Vision Transformers | 🤖 Large Language Models
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehulrk7432)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mehulbartwal7432@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/mehulrk7432" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mehulbartwal7432@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Computer Vision & Machine Learning Engineer** and **Project Associate at CSIR–CSIO**, currently collaborating with **DRDO** on defense-focused AI systems. My work lies at the intersection of **hyperspectral imaging, vision transformers, and large-scale deep learning systems**, with an emphasis on **real-world deployment and robustness**.
+I am a **Computer Vision & ML Engineer** and **Project Associate at CSIR–CSIO**, currently collaborating with **DRDO** on defense-focused AI systems. My work lies at the intersection of **hyperspectral imaging, vision transformers, and large-scale deep learning**, with an emphasis on **real-world deployment and robustness**.
 
 - 🔭 **Current Work:** Physics-aware spectral unmixing & ViT-based models for **hyperspectral landmine detection**
 - 🔬 **Research:** Hybrid deep learning architectures (CNN + BiLSTM + Attention) for agricultural quality assessment
@@ -46,21 +46,19 @@ I am a **Computer Vision & Machine Learning Engineer** and **Project Associate a
 ## 🚀 Featured Projects
 
 ### **GPT-2 (124M Parameters) — Trained From Scratch**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 - Implemented a decoder-only Transformer (12 layers, 12 heads, 768 hidden size)
 - Trained from scratch on WikiText-103 using NVIDIA DGX (4× V100 GPUs)
 - Used Distributed Data Parallel (DDP) and Automatic Mixed Precision (AMP)
 - Achieved **19.66 validation perplexity**, matching GPT-2 Small benchmarks
-- Implemented attention, layer normalization, and optimization logic without relying on high-level abstractions
 
-### **SecureVision — Research Collaboration Platform**
+### **SecureVision** — Research Collaboration Platform
 ![MERN](https://img.shields.io/badge/MERN-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
 
 - Secure research platform with JWT/2FA authentication
-- Real-time data analysis using WebSockets
-- Built with MongoDB, Express.js, React, and Node.js
+- Real-time data analysis with WebSockets
+- Built using MongoDB, Express.js, React, and Node.js
 
 ---
 
@@ -96,18 +94,21 @@ CGPA: **7.98 / 10**
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehulrk7432&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehulrk7432&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehulrk7432&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehulrk7432&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehulrk7432&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehulrk7432&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
-<div align="center">
-  <i>"Good models fit data. Great models survive the real world."</i><br><br>
-  <img src="https://visitcount.itsvg.in/api?id=Mehulrk7432&icon=9&color=0"/>
-</div>
+<p align="center">
+  <i>"Good models fit data. Great models survive the real world."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mehulrk7432&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
