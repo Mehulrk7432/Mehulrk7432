@@ -111,3 +111,4 @@ CGPA: **7.98 / 10**
   <i>"Good models fit data. Great models survive the real world."</i><br><br>
   <img src="https://visitcount.itsvg.in/api?id=Mehulrk7432&icon=9&color=0"/>
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Test&height=200"/>
